@@ -15,14 +15,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DRAKKOSHKKA&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRAKKOSHKKA&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=DRAKKOSHKKA&theme=tokyonight&hide_border=true" />
 
 </div>
@@ -33,7 +25,8 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DRAKKOSHKKA/DRAKKOSHKKA/output/github-contribution-grid-snake-dark.svg" />
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </div>
 
