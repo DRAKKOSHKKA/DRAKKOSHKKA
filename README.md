@@ -1,55 +1,88 @@
-<h1>О себе 🎮🧑‍💻</h1>
-
-###
-![](https://komarev.com/ghpvc/?username=DrakPlay&theme=lightgrey&style=flat-square)
-
-<p align="left">Привет! Я страстный JavaScript разработчик 🌟, с особой любовью к созданию модов для <strong>Minecraft Bedrock Edition</strong> 🛠️🎮. Моя работа добавляет новые элементы и функции в любимую игру, делая её ещё более захватывающей для игроков по всему миру! 🌍💥</p>
-
-###
-
-<h2 align="center">Мои знания 🌐📚</h2>
-
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
-  <img width="12" />
+
+# DRAKKOSHKKA
+
+### Backend / Web Developer  
+**Автоматизация • Архитектура • ООП • Надёжность • Безопасность**
+
+![](https://komarev.com/ghpvc/?username=DRAKKOSHKKA&color=0891b2&style=flat-square)
+
 </div>
 
-###
+---
 
-<h2 align="center">Изучаю 🚀📖</h2>
-
-###
+# 📊 GitHub Статистика
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+
+<img src="https://github-readme-stats.vercel.app/api?username=DRAKKOSHKKA&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRAKKOSHKKA&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=DRAKKOSHKKA&theme=tokyonight&hide_border=true" />
+
 </div>
 
-###
+---
 
-<h2 align="center">Использую 🛠️💻</h2>
-
-###
+# 🐍 График активности
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+
+<img src="https://raw.githubusercontent.com/DRAKKOSHKKA/DRAKKOSHKKA/output/github-contribution-grid-snake-dark.svg" />
+
 </div>
 
-###
+---
+
+# 🧠 Инженерный подход
+
+- 🔁 Automation-first — CLI, пайплайны, воспроизводимость
+- 🧩 Архитектура — изоляция домена, слои, контроль зависимостей
+- 🧱 ООП осознанно — композиция и интерфейсы
+- 🛡 Secure-by-default — валидация и контроль доступа
+- ⚙ Отказоустойчивость — таймауты, ретраи, структурированные логи
+
+---
+
+# 🏷 Технологии
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
+![Flask](https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📐 Архитектурные принципы
+
+| Принцип | Реализация |
+|----------|------------|
+| Разделение ответственности | Чёткая изоляция домена |
+| Контроль зависимостей | Минимальная связность |
+| Защитное программирование | Предсказуемая обработка ошибок |
+| Наблюдаемость | Структурированные логи |
+| Воспроизводимость | Контроль окружения и зависимостей |
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚙ Среда
+
+Windows • Linux • VSCode • PyCharm  
+</div>
