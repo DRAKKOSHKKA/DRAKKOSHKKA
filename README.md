@@ -21,17 +21,6 @@
 
 ---
 
-# 🐍 График активности
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
-
----
-
 # 🧠 Инженерный подход
 
 - 🔁 Automation-first — CLI, пайплайны, воспроизводимость
